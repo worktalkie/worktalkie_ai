@@ -1,0 +1,88 @@
+{
+    "result": "COMPLETED",
+    "message": "Succeeded",
+    "token": "0e96c679932f4fe5a478c15dbd8e3f2c",
+    "version": "ncp_v2_v2.3.2-4225de5-20240125__v4.2.12_ko_firedepartment_20240624_",
+    "params": {
+        "service": "ncp",
+        "domain": "general",
+        "lang": "ko",
+        "completion": "sync",
+        "diarization": {
+            "enable": false
+        },
+        "sed": {
+            "enable": false
+        },
+        "boostings": [],
+        "forbiddens": "",
+        "wordAlignment": true,
+        "fullText": true,
+        "noiseFiltering": true,
+        "resultToObs": false,
+        "priority": 0,
+        "userdata": {
+            "_ncp_DomainCode": "worktalkie-stt",
+            "_ncp_DomainId": 9196,
+            "_ncp_TaskId": 22562339,
+            "_ncp_TraceId": "30011e0b8e774641854a3ae954a8e242"
+        }
+    },
+    "progress": 100,
+    "keywords": {},
+    "segments": [
+        {
+            "start": 0,
+            "end": 7561,
+            "text": "트위터 친구당 안녕하세요 방금 가입했어요.",
+            "confidence": 0.9933,
+            "diarization": {
+                "label": ""
+            },
+            "speaker": {
+                "label": "",
+                "name": "",
+                "edited": false
+            },
+            "words": [
+                [
+                    2370,
+                    2700,
+                    "트위터"
+                ],
+                [
+                    2850,
+                    3160,
+                    "친구당"
+                ],
+                [
+                    3350,
+                    3880,
+                    "안녕하세요"
+                ],
+                [
+                    4150,
+                    4400,
+                    "방금"
+                ],
+                [
+                    4470,
+                    5100,
+                    "가입했어요."
+                ]
+            ],
+            "textEdited": "트위터 친구당 안녕하세요 방금 가입했어요."
+        }
+    ],
+    "text": "트위터 친구당 안녕하세요 방금 가입했어요.",
+    "confidence": 0.9933,
+    "speakers": [
+        {
+            "label": "",
+            "name": "",
+            "edited": false
+        }
+    ],
+    "events": [],
+    "eventTypes": []
+}

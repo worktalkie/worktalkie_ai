@@ -1,0 +1,108 @@
+{
+    "result": "COMPLETED",
+    "message": "Succeeded",
+    "token": "446384f40e7c4f82b51bb71d4fc2e481",
+    "version": "ncp_v2_v2.3.2-4225de5-20240125__v4.2.12_ko_firedepartment_20240624_",
+    "params": {
+        "service": "ncp",
+        "domain": "general",
+        "lang": "ko",
+        "completion": "sync",
+        "diarization": {
+            "enable": false
+        },
+        "sed": {
+            "enable": false
+        },
+        "boostings": [],
+        "forbiddens": "",
+        "wordAlignment": true,
+        "fullText": true,
+        "noiseFiltering": true,
+        "resultToObs": false,
+        "priority": 0,
+        "userdata": {
+            "_ncp_DomainCode": "worktalkie-stt",
+            "_ncp_DomainId": 9196,
+            "_ncp_TaskId": 22562344,
+            "_ncp_TraceId": "fe1a30485d664f358a869f8c531becf5"
+        }
+    },
+    "progress": 100,
+    "keywords": {},
+    "segments": [
+        {
+            "start": 0,
+            "end": 8292,
+            "text": "저는 미워하지 마세요. 도봉구에 저 같은 사람도 살고 있습니다.",
+            "confidence": 0.9752,
+            "diarization": {
+                "label": ""
+            },
+            "speaker": {
+                "label": "",
+                "name": "",
+                "edited": false
+            },
+            "words": [
+                [
+                    2050,
+                    2320,
+                    "저는"
+                ],
+                [
+                    2390,
+                    2860,
+                    "미워하지"
+                ],
+                [
+                    2890,
+                    3220,
+                    "마세요."
+                ],
+                [
+                    3590,
+                    4140,
+                    "도봉구에"
+                ],
+                [
+                    4140,
+                    4280,
+                    "저"
+                ],
+                [
+                    4330,
+                    4540,
+                    "같은"
+                ],
+                [
+                    4590,
+                    4980,
+                    "사람도"
+                ],
+                [
+                    5030,
+                    5320,
+                    "살고"
+                ],
+                [
+                    5370,
+                    5800,
+                    "있습니다."
+                ]
+            ],
+            "textEdited": "저는 미워하지 마세요. 도봉구에 저 같은 사람도 살고 있습니다."
+        }
+    ],
+    "text": "저는 미워하지 마세요. 도봉구에 저 같은 사람도 살고 있습니다.",
+    "confidence": 0.97519994,
+    "speakers": [
+        {
+            "label": "",
+            "name": "",
+            "edited": false
+        }
+    ],
+    "events": [],
+    "eventTypes": []
+}

@@ -1,0 +1,98 @@
+{
+    "result": "COMPLETED",
+    "message": "Succeeded",
+    "token": "942bfda614e947abb7b11b021489632b",
+    "version": "ncp_v2_v2.3.2-4225de5-20240125__v4.2.12_ko_firedepartment_20240624_",
+    "params": {
+        "service": "ncp",
+        "domain": "general",
+        "lang": "ko",
+        "completion": "sync",
+        "diarization": {
+            "enable": false
+        },
+        "sed": {
+            "enable": false
+        },
+        "boostings": [],
+        "forbiddens": "",
+        "wordAlignment": true,
+        "fullText": true,
+        "noiseFiltering": true,
+        "resultToObs": false,
+        "priority": 0,
+        "userdata": {
+            "_ncp_DomainCode": "worktalkie-stt",
+            "_ncp_DomainId": 9196,
+            "_ncp_TaskId": 22562343,
+            "_ncp_TraceId": "8cf2ab0e64c44909b8aae1c7fa53a728"
+        }
+    },
+    "progress": 100,
+    "keywords": {},
+    "segments": [
+        {
+            "start": 0,
+            "end": 7456,
+            "text": "이제 퇴근 준비합니다. 모두 좋은 밤 되세요.",
+            "confidence": 0.9899,
+            "diarization": {
+                "label": ""
+            },
+            "speaker": {
+                "label": "",
+                "name": "",
+                "edited": false
+            },
+            "words": [
+                [
+                    2270,
+                    2480,
+                    "이제"
+                ],
+                [
+                    2610,
+                    2860,
+                    "퇴근"
+                ],
+                [
+                    2990,
+                    3560,
+                    "준비합니다."
+                ],
+                [
+                    3930,
+                    4160,
+                    "모두"
+                ],
+                [
+                    4250,
+                    4420,
+                    "좋은"
+                ],
+                [
+                    4490,
+                    4640,
+                    "밤"
+                ],
+                [
+                    4690,
+                    5020,
+                    "되세요."
+                ]
+            ],
+            "textEdited": "이제 퇴근 준비합니다. 모두 좋은 밤 되세요."
+        }
+    ],
+    "text": "이제 퇴근 준비합니다. 모두 좋은 밤 되세요.",
+    "confidence": 0.9899,
+    "speakers": [
+        {
+            "label": "",
+            "name": "",
+            "edited": false
+        }
+    ],
+    "events": [],
+    "eventTypes": []
+}

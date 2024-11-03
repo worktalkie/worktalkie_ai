@@ -1,0 +1,103 @@
+{
+    "result": "COMPLETED",
+    "message": "Succeeded",
+    "token": "f8d69aa01c244808ab03a0325741518f",
+    "version": "ncp_v2_v2.3.2-4225de5-20240125__v4.2.12_ko_firedepartment_20240624_",
+    "params": {
+        "service": "ncp",
+        "domain": "general",
+        "lang": "ko",
+        "completion": "sync",
+        "diarization": {
+            "enable": false
+        },
+        "sed": {
+            "enable": false
+        },
+        "boostings": [],
+        "forbiddens": "",
+        "wordAlignment": true,
+        "fullText": true,
+        "noiseFiltering": true,
+        "resultToObs": false,
+        "priority": 0,
+        "userdata": {
+            "_ncp_DomainCode": "worktalkie-stt",
+            "_ncp_DomainId": 9196,
+            "_ncp_TaskId": 22562340,
+            "_ncp_TraceId": "7e81ec03cd25413b90b7f5e4a1559a87"
+        }
+    },
+    "progress": 100,
+    "keywords": {},
+    "segments": [
+        {
+            "start": 0,
+            "end": 7979,
+            "text": "아 알겠다. 다른 작품 하나 더 올려주세요. 흥미로운데요.",
+            "confidence": 0.8912,
+            "diarization": {
+                "label": ""
+            },
+            "speaker": {
+                "label": "",
+                "name": "",
+                "edited": false
+            },
+            "words": [
+                [
+                    2030,
+                    2180,
+                    "아"
+                ],
+                [
+                    2270,
+                    2720,
+                    "알겠다."
+                ],
+                [
+                    3050,
+                    3240,
+                    "다른"
+                ],
+                [
+                    3370,
+                    3640,
+                    "작품"
+                ],
+                [
+                    3670,
+                    3880,
+                    "하나"
+                ],
+                [
+                    3880,
+                    4000,
+                    "더"
+                ],
+                [
+                    4070,
+                    4600,
+                    "올려주세요."
+                ],
+                [
+                    4890,
+                    5560,
+                    "흥미로운데요."
+                ]
+            ],
+            "textEdited": "아 알겠다. 다른 작품 하나 더 올려주세요. 흥미로운데요."
+        }
+    ],
+    "text": "아 알겠다. 다른 작품 하나 더 올려주세요. 흥미로운데요.",
+    "confidence": 0.8912,
+    "speakers": [
+        {
+            "label": "",
+            "name": "",
+            "edited": false
+        }
+    ],
+    "events": [],
+    "eventTypes": []
+}
